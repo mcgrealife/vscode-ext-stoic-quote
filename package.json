@@ -2,6 +2,7 @@
   "name": "stoicquote",
   "displayName": "Stoic Quotes",
   "description": "Show a StoicQuote modal each time you open VsCode.",
+  "publisher": "mcgrealife",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -14,6 +15,11 @@
     "onStartupFinished"
   ],
   "main": "./out/extension.js",
+  "icon": "images/stoic-quote-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcgrealife/vscode-ext-stoic-quote"
+  },
   "contributes": {
     "commands": [
       {
