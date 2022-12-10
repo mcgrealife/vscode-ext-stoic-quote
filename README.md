@@ -4,7 +4,7 @@ A simple extension that fetches a random quote from stoicquotesapi.com and displ
 
 ## Features
 
-![modal example](images/stoic-quote-modal-example.png)
+![modal example](https://raw.githubusercontent.com/mcgrealife/vscode-ext-stoic-quote/main/images/stoic-quote-modal-example.png?token=GHSAT0AAAAAABRNQIH2XVMD2KJFXMY4WEUUY4UZGAA)
 
 ## Requirements
 
