@@ -4,7 +4,7 @@ A simple extension that fetches a random quote from stoicquotesapi.com and displ
 
 ## Features
 
-\!\[modal example\]\(images/stoic-quote-modal-example.png\)
+![modal example](images/stoic-quote-modal-example.png)
 
 ## Requirements
 
@@ -21,14 +21,12 @@ Include if your extension adds any VS Code settings through the `contributes.con
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Submit an issue at [github.com/mcgrealife/vscode-ext-stoic-quote/issues](https://github.com/mcgrealife/vscode-ext-stoic-quote/issues)
 
 ## Release Notes
 
-Initial release.
-
 ### 1.0.0
 
-Initial release of ...
+Initial release of StoicQuotes
 
 **Enjoy!**
