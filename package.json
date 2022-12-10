@@ -1,6 +1,6 @@
 {
-  "name": "stoicode",
-  "displayName": "stoicode",
+  "name": "stoicquote",
+  "displayName": "Stoic Quotes",
   "description": "Show a StoicQuote modal each time you open VsCode.",
   "version": "0.0.1",
   "engines": {
